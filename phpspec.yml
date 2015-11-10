@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Bigatle
+        psr4_prefix: Bigatle
+        src_path: app
